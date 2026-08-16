@@ -44,3 +44,10 @@ Relevant Context
 Groq LLM
       ↓
 Grounded Answer
+
+
+## 🎥 Demo
+
+Watch the SupplyLens RAG application in action:
+
+[▶️ View SupplyLens Demo](demo/SupplyLens%20demo.mp4)
